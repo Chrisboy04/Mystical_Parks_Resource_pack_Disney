@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/gray_concrete",
-		"1": "custom/2020-06-02_02.31.22",
+		"1": "custom/background1",
 		"4": "block/mplogo",
 		"5": "block/laptop2",
 		"particle": "block/gray_concrete"
