@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/paper",
+		"0": "custom/paper",
 		"2": "block/mplogo2",
 		"3": "block/mplogo",
 		"4": "cosmetics/hm",
-		"particle": "item/paper"
+		"particle": "custom/paper"
 	},
 	"elements": [
 		{
