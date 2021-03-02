@@ -11,7 +11,7 @@
 	"overrides":[
     { "predicate": { "damaged": 0, "damage": 0.000640614990}, "model":"item/deco/showlights1"},
     { "predicate": { "damaged": 0, "damage": 0.001281229981}, "model":"item/deco/showlights2"},
-    { "predicate": { "damaged": 0, "damage": 0.001921844971}, "model":"item/deco/cashregister"},
+    { "predicate": { "damaged": 0, "damage": 0.001921844971}, "model":"item/deco/newcash"},
     { "predicate": { "damaged": 0, "damage": 0.002562459962}, "model":"item/deco/drink"},
     { "predicate": { "damaged": 0, "damage": 0.003203074952}, "model":"item/deco/laptop1"},
 	{ "predicate": { "damaged": 0, "damage": 0.00384368994}, "model":"item/deco/laptop2"},
