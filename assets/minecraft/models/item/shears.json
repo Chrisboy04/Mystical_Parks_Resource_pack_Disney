@@ -47,9 +47,9 @@
 	  { "predicate": { "damaged": 0, "damage": 0.17226890756}, "model": "item/rides/astro/astro_arm"},
 	  { "predicate": { "damaged": 0, "damage": 0.17647058823}, "model": "item/rides/astro/astro_ride"},
 	  
-      { "predicate": { "damaged": 1, "damage": 0.00420168}, "model": "item/deco/seat/seat1"},
-      { "predicate": { "damaged": 1, "damage": 0.00840336}, "model": "item/deco/seat/seat2"},
-      { "predicate": { "damaged": 1, "damage": 0.01260504202}, "model": "item/deco/seat/seat3"},
+      { "predicate": { "damaged": 1, "damage": 0.00420168}, "model": "item/deco/seats/seat1"},
+      { "predicate": { "damaged": 1, "damage": 0.00840336}, "model": "item/deco/seats/seat2"},
+      { "predicate": { "damaged": 1, "damage": 0.01260504202}, "model": "item/deco/seats/seat3"},
       { "predicate": { "damaged": 1, "damage": 0.01680672269}, "model": "item/deco/drink"},	
       { "predicate": { "damaged": 1, "damage": 0.02100840336}, "model": "item/deco/newcash"},
       { "predicate": { "damaged": 1, "damage": 0.02521008403}, "model": "item/cosmetics/mickeyears"},

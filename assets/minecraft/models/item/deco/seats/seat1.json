@@ -3,8 +3,7 @@
 	"textures": {
 		"1": "block/metalic",
 		"2": "custom/black_wool",
-		"3": "custom/case1",
-		"particle": "Downloads/28aac11a-1770-4e45-b38d-44978b1c78ab"
+		"3": "custom/case1"
 	},
 	"elements": [
 		{
@@ -420,8 +419,8 @@
 		},
 		"fixed": {
 			"rotation": [-90, 67.5, 0],
-			"translation": [0, 0, 1],
-			"scale": [4, 4, 4]
+			"translation": [0, 0, 15],
+			"scale": [2.25, 2.25, 2.25]
 		}
 	},
 	"groups": [
