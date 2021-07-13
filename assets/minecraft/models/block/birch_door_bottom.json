@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "block/white_stained_glass",
+		"2": "block/glass",
 		"particle": "block/birch_door_bottom",
 		"bottom": "block/birch_door_bottom"
 	},
