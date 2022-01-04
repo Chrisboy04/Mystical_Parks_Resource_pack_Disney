@@ -44,8 +44,9 @@
 	  { "predicate": { "damaged": 0, "damage": 0.15966386554}, "model": "item/rides/startours/startoursdoor3"},
 	  { "predicate": { "damaged": 0, "damage": 0.16386554621}, "model": "item/rides/startours/startoursdoor4"},
 	  { "predicate": { "damaged": 0, "damage": 0.16806722689}, "model": "item/rides/startours/startoursdoor5"},
-	  { "predicate": { "damaged": 0, "damage": 0.17226890756}, "model": "item/rides/astro/astro_arm"},
-	  { "predicate": { "damaged": 0, "damage": 0.17647058823}, "model": "item/rides/astro/astro_ride"},
+	  { "predicate": { "damaged": 0, "damage": 0.17226890756}, "model": "item/rides/astro/astro_orbiterpole"},
+	  { "predicate": { "damaged": 0, "damage": 0.17647058823}, "model": "item/rides/astro/astro_orbiter"},
+	  { "predicate": { "damaged": 0, "damage": 0.177215189873418 }, "model": "item/rides/astro/astro_panel" },
 	  
       { "predicate": { "damaged": 1, "damage": 0.00420168}, "model": "item/deco/seats/seat1"},
       { "predicate": { "damaged": 1, "damage": 0.00840336}, "model": "item/deco/seats/seat2"},
