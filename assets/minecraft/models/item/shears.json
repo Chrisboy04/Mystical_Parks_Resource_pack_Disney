@@ -73,6 +73,6 @@
 	  { "predicate": { "damaged": 1	, "damage": 0.09663865546}, "model": "item/deco/speaker"},
 	  { "predicate": { "damaged": 1, "damage": 0.10084033613}, "model": "item/deco/speaker2"},
 	  { "predicate": { "damaged": 1, "damage": 0.1050420168}, "model": "item/deco/speaker3"},
-	  	  { "predicate": { "damaged": 0, "damage": 0.10924369747}, "model": "item/deco/sodacooling"}
+	  	  { "predicate": { "damaged": 1, "damage": 0.10924369747}, "model": "item/deco/sodacooling"}
   ]
 }  
