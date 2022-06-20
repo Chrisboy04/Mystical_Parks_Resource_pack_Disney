@@ -298,11 +298,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [71, 0, 0],
+			"rotation": [47.5, 0, 0],
 			"translation": [0, 3.5, 3.25]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [71, 0, 0],
+			"rotation": [47.5, 0, 0],
 			"translation": [0, 3.5, 3.25]
 		},
 		"firstperson_righthand": {
@@ -315,7 +315,8 @@
 			"translation": [0, 3.75, 0]
 		},
 		"gui": {
-			"translation": [0, 1.75, 0]
+			"rotation": [-2, 37, 30],
+			"translation": [-0.75, 2.5, 0]
 		},
 		"head": {
 			"translation": [0.75, 16.5, -3.5],

@@ -1511,5 +1511,34 @@
 				"down": {"uv": [0, 0, 1, 1], "texture": "#4"}
 			}
 		}
-	]
+	],
+	"overrides": [
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.03125
+			},
+			"model": "item/deco/spacemountain_deco"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.0625
+			},
+			"model": "item/deco/spacemountain_deco2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.09375
+			},
+			"model": "item/deco/spacemountain_deco3"
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-15, 63, 29],
+			"translation": [-1, 6, 0]
+		}
+	}
 }
